@@ -1,0 +1,82 @@
+Coingbit Token Platform Structure:
+
+📁 Root Directory
+├── 📄 index.html (Main entry point)
+├── 📄 app.js (Main React application)
+├── 📁 components/
+│   ├── 📄 Header.js (Platform header with logo)
+│   ├── 📄 TokenInfo.js (Token statistics display)
+│   ├── 📄 TokenChart.js (Real-time price chart)
+│   ├── 📄 TradeForm.js (Buy/Sell interface)
+│   └── 📄 WalletConnect.js (Wallet connection management)
+├── 📁 styles/
+│   ├── 📄 main.css (Global styles)
+│   ├── 📄 token.css (Token-specific styles)
+│   └── 📄 chart.css (Chart-specific styles)
+└── 📁 utils/
+    ├── 📄 web3.js (Web3 integration)
+    ├── 📄 tokenContract.js (Token contract integration)
+    └── 📄 chartService.js (Chart data management)
+
+Key Features:
+
+1. Token Information
+   - Name: Coingbit (BYT)
+   - Current Price: $2,798,300
+   - Trading Price: $15.00
+   - Total Supply: 12,987,200,000
+   - Available Supply: 2,987,300,000
+   - Gas Balance: 798,740,000
+
+2. Real-Time Chart
+   - Candlestick chart
+   - Time frame options: 1H, 4H, 1D, 1W, 1M
+   - Real-time price updates
+   - Interactive tooltips
+
+3. Trading Features
+   - Buy/Sell interface
+   - Amount input
+   - Real-time price calculation
+   - Transaction confirmation
+
+4. Wallet Integration
+   - MetaMask connection
+   - Account display
+   - Copy address functionality
+   - Etherscan link
+   - Disconnect option
+
+5. UI/UX Features
+   - Dark theme
+   - Responsive design
+   - Loading animations
+   - Error handling
+   - Transaction feedback
+
+6. Visual Elements
+   - Hexagonal token logo
+   - Gradient backgrounds
+   - Modern card layouts
+   - Interactive buttons
+   - Clean typography
+
+7. Security Features
+   - Secure wallet connection
+   - Transaction confirmation
+   - Error boundaries
+   - Data validation
+
+8. Performance
+   - Optimized React components
+   - Efficient chart rendering
+   - Responsive layout
+   - Fast loading times
+
+To run the project:
+1. Place all files in their respective directories
+2. Open index.html in a web browser
+3. Connect MetaMask wallet
+4. Start trading BYT tokens
+
+Note: The platform is already connected to the Ethereum mainnet and ready to use with MetaMask.

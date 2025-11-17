@@ -1,0 +1,1 @@
+mkdir -p crypto-trading-app/{components,styles,utils} && cd crypto-trading-app && touch index.html app.js components/{Header,Balance,CryptoList,TradingChart,TradingForm}.js styles/{main,chart}.css utils/{web3,priceService}.js

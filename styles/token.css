@@ -1,0 +1,53 @@
+.token-info {
+    background: rgba(25, 118, 210, 0.1);
+    border-radius: 16px;
+    padding: 2rem;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.token-price {
+    font-size: 2.5rem;
+    font-weight: bold;
+    background: linear-gradient(135deg, #64b5f6 0%, #2196f3 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.token-supply {
+    background: rgba(13, 71, 161, 0.3);
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.gas-info {
+    background: rgba(25, 118, 210, 0.2);
+    border-radius: 8px;
+    padding: 0.75rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trade-form {
+    background: rgba(13, 71, 161, 0.4);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.trade-form input {
+    color: #333;
+    background: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.trade-form label {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.trade-form button {
+    font-weight: 600;
+}
