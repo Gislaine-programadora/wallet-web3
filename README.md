@@ -1,6 +1,6 @@
 ## 🚀 CoingBit Wallet - Carteira Digital Profissional
 
-    <img width="477" height="543" alt="image" src="https://github.com/user-attachments/assets/2dfe9842-aef1-49bc-9834-94efc27a8e48" />
+   <img width="477" height="543" alt="image" src="https://github.com/user-attachments/assets/2dfe9842-aef1-49bc-9834-94efc27a8e48" />
 
 
 
