@@ -4,45 +4,44 @@
 
 
 
-Uma carteira digital moderna e profissional para trading do token CoingBit na rede Ethereum.
+  Uma carteira digital moderna e profissional para trading do token CoingBit na rede Ethereum.
 
-## 🌟 Características Principais
+  ## 🌟 Características Principais
 
-### 💰 Token CoingBit (CGB)
+    ### 💰 Token CoingBit (CGB)
 - **Saldo Inicial**: 2.987.760.000 CGB
 - **Cotação Atual**: R$ 47.632.200 (+46% 📈)
 - **Preço de Trading**: $112.00
 - **Unidade Mínima**: 0.00000000101
 - **Rede**: Ethereum Mainnet
 
-### 💳 Funcionalidades da Wallet
+      ### 💳 Funcionalidades da Wallet
 - Saldo em USD: $3.798.700
 - Transferências para endereços ETH
 - Trading de compra e venda
 - Gráficos em tempo real
 - Depósitos via PIX
 
-### 📊 Trading & Análise
+   ### 📊 Trading & Análise
 - Gráficos candlestick em tempo real
 - Múltiplos timeframes (1H, 4H, 1D, 1W)
 - Trading de tokens ETH (ETH, USDT, USDC, WBTC)
 - Interface profissional de compra/venda
 
-### 💸 Sistema PIX
+   ### 💸 Sistema PIX
 - Depósitos instantâneos via PIX
 - Geração automática de códigos PIX
 - Processamento 24h/dia
 - Taxa zero
 
-## 🛠️ Configuração
+   ## 🛠️ Configuração
 
-### Arquivo .env
+   ### Arquivo .env
 Configure as seguintes variáveis no arquivo `.env`:
 
 ```env
-# Contrato do Token
-REACT_APP_TOKEN_CONTRACT=0x742d35Cc6635C0532925a3b8D400d2C5E44C5c5c
-
+   # Contrato do Token
+REACT_APP_TOKEN_CONTRACT=0x297e1984BF7Da594a34E88Ecadf7B47bBbb3A5c2
 # RPC Ethereum
 REACT_APP_ETH_RPC=https://mainnet.infura.io/v3/YOUR_PROJECT_ID
 
